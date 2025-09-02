@@ -18,13 +18,9 @@ That’s it — no build pipeline required.
 
 ---
 
-## ✨ Features
+## Demo
 
-- 📱 Responsive layout (Tailwind CSS)
-- ⚡ Blazing fast — just static HTML, CSS, JS
-- 📂 `netlify.toml` config with secure headers
-- 📬 Contact form powered by **Netlify Forms**
-- 🎨 Easy to customize colors, fonts, and sections
+<img width="1490" height="807" alt="Screenshot 2025-09-02 at 11 33 10 AM" src="https://github.com/user-attachments/assets/6d4215ad-e199-4609-903d-a30ff508f30e" />
 
 ---
 
